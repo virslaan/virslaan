@@ -21,4 +21,5 @@ I am a high standards driven and people focused Data Science and Software profes
 
 -->
 I like to laugh so here's a joke for you as well !
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
