@@ -8,15 +8,17 @@ I am a high standards driven and people focused Data Science and Software profes
 - 📫 How to reach me: vhh2105@columbia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Youtuber as well, I vlog my life !
-
+<!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true)
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=virslaan&theme=blue-green)
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=virslaan/Python)
-## 4. I like to laugh so here's a joke for you as well !
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 5. Profile Visitor Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=virslaan)
 ### Repository Interaction Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/virslaan/Python)
+
+-->
+I like to laugh so here's a joke for you as well !
+![Jokes Card](https://readme-jokes.vercel.app/api)
