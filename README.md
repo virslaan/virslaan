@@ -9,4 +9,4 @@ I am a high standards driven and people focused Data Science and Software profes
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Youtuber as well, I vlog my life !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virslaan)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=virslaan)](https://github.com/anuraghazra/github-readme-stats)
