@@ -22,8 +22,4 @@ I am a high standards driven and people focused Data Science and Software profes
 -->
 #### I like to laugh so here's a joke for you as well !
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-#### Some Analysis !
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true)
+![Jokes Card](https://readme-jokes.vercel.app/api) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true)
