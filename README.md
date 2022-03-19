@@ -1,13 +1,12 @@
-## Hey Visitor ! Welcome To Vipul's Github Profile 👋
+## Hey Visitor...Welcome To Vipul's Github Profile 👋
 
 I am currently a graduate student of Columbia University in the City of New York with a Master's degree in Data Science. I
-I am a high standards driven and people focused Data Science and Software professional with a wide range of experience in Business and Product Analysis , Machine Learning, Engineering and Data Science. My team mates and colleagues know me as a motivating person, focused on finding new and innovative solutions to problems throughout my journey at Columbia University in the City of New York as well as IBM. 
+I am a high standards driven and people focused Data Science and Software Professional with a wide range of experience in Business and Product Analysis , Machine Learning, Engineering and Data Science. My team mates and colleagues know me as a motivating person, focused on finding new and innovative solutions to problems throughout my journey at Columbia University in the City of New York as well as IBM. 
 
 - 🌱 I’m currently learning Machine Learning Solutions to solve Big Data Driven Issues.    <!--img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" width="200" height="220" /-->
   
 
-- 👯 I’m looking to collaborate on projects that involve Development and Analytics
-
+- 👯 I’m looking to collaborate on projects that involve an amalgamation of Development, Data Science and Analytics
 - 📫 How to reach me: vhh2105@columbia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Youtuber as well, I vlog my life !
@@ -24,6 +23,6 @@ I am a high standards driven and people focused Data Science and Software profes
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/virslaan/Python)
 
 -->
-#### I like to share happiness, here's a techy joke for you as well !
+#### Wait did I mention I like to share happiness, here's a "Techy Joke" for you as well !
 
  ![Jokes Card](https://readme-jokes.vercel.app/api) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true)
