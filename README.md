@@ -1,4 +1,4 @@
-##  Vipul H. Harihar GitHub Profile
+##  Vipul H. Harihar GitHub Page : Glad to see you here :)
 I am currently a graduate student of Columbia University in the City of New York with a Master's degree in Data Science. I
 I am a high standards driven and people focused Data Science and Software Professional with a wide range of experience in Business and Product Analysis , Machine Learning, Engineering and Data Science. My team mates and colleagues know me as a motivating person, focused on finding new and innovative solutions to problems throughout my journey at Columbia University in the City of New York as well as IBM. 
 
