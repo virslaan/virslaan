@@ -10,7 +10,7 @@ I am currently a graduate student at <b>Columbia University, New York,</b> pursu
 <br>
 <!--Before pursuing my masters in 'Data Science', I worked as an Application Developer at IBM where I handled projects involving 'Data Collection', 'Cleaning', 'Storage', 'Management', 'Analytics', and 'Data Wrangling'. I honed my technical skills in Java, Python, R, SQL, Web Data Analysis, and IBM Cognos Analytics by working on 2 international projects and deploying one software application on Cloud, and devised machine learning models into production on Openshift Cloud Platform.
 -->
-As a self-motivated, perseverant individual with industrial experience in Data Science and Computer Science, I would be able to bring a combination of skills that would help me perform greatly to achieve goals and enable companies to make insightful and effective decisions.
+As a self-motivated, perseverant individual with industrial experience in Data Science and Computer Science, I ll bring a combination of advanced and brilliant skills that would help me perform greatly to achieve my life goals and enable companies and business to make insightful and effective decisions.
 
 
 <!--img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" width="200" height="220" /-->
