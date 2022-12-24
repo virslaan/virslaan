@@ -1,14 +1,16 @@
 ##  Vipul H. Harihar GitHub Page : Glad to see you here :)
 
 
-I am currently a graduate student at <b>Columbia University, New York,</b> pursuing Masters in Data Science at the <b> Fu Foundation School of Engineering and Sciences School.</b> My concrete fundamental skill involves:
+I am a graduate from <b>Columbia University, New York,</b> in Masters in Data Science at the <b> Fu Foundation School of Engineering and Sciences School.
+I am open to full time job opportunities please reach out to me.
+</b> My concrete fundamental skill involves:
 <li> Problem-solving </li>
 <li> Data Handling, Management and Modeling </li>
 <li> Software engineering </li>
 <li> Application and Web Development </li>
 <li> User Experience and Design Enhancer </li>
 <br>
-<!--Before pursuing my masters in 'Data Science', I worked as an Application Developer at IBM where I handled projects involving 'Data Collection', 'Cleaning', 'Storage', 'Management', 'Analytics', and 'Data Wrangling'. I honed my technical skills in Java, Python, R, SQL, Web Data Analysis, and IBM Cognos Analytics by working on 2 international projects and deploying one software application on Cloud, and devised machine learning models into production on Openshift Cloud Platform.
+<!--Before pursuing my masters in 'Data Science', I worked as an Application Developer at IBM where I handled projects involving 'Data Collection', 'Cleaning', 'Storage', 'Management', 'Analytics', and 'Data Wrangling'. I honed my technical skills in Java, Python, R, SQL, Web Data Analysis, and IBM Cognos Analytics by working on 2 international projects and deploying one software application on Cloud, and devised machine learning models into production on AWS Cloud Platform.
 -->
 As a self-motivated, perseverant individual with industrial experience in Data Science and Computer Science, I ll bring a combination of advanced and brilliant skills that would help me perform greatly to achieve my life goals and enable companies and business to make insightful and effective decisions.
 
