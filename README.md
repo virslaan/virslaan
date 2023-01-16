@@ -1,4 +1,4 @@
-##  Vipul H. Harihar GitHub Page : Glad to see you here :)
+##  Vipul H. Harihar GitHub Profile : Glad to see you here :)
 
 
 I am a graduate from <b>Columbia University, New York,</b> in Masters in Data Science at the <b> Fu Foundation School of Engineering and Sciences School.
