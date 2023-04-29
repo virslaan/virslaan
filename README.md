@@ -3,19 +3,14 @@
 I'm Vipul, a highly motivated and results-driven software engineer with a passion for problem-solving and developing innovative solutions that make a real impact. With experience in cloud infrastructure, web development, and data analysis, I'm always up for a challenge and love to learn and grow in my field.
 
 ### 🔧 Technologies and Tools:
-<span style="color:#2e59d9">Development:</span> React, Angular, Spring Boot, Flask, Node.js, jQuery, Java, Algorithms Design, Complexity Analysis
 
-<span style="color:#2e59d9">Cloud and Database Management:</span> AWS (EC2, S3, RDS, CloudFormation), GCP, Azure, MySQL, NoSQL, Oracle, DB2
-
-<span style="color:#2e59d9">Data Science:</span> Machine & Deep Learning Frameworks (TensorFlow, Keras, PyTorch), Statistical Analysis (scikit-learn, Python, R)
-
-<span style="color:#2e59d9">ML and Data Visualization:</span> Matplotlib, Tableau, Experimental Design and Analysis, Model Deployment and Optimization
-
-<span style="color:#2e59d9">Technical Project Management:</span> Agile Methodologies, SDLC, Stakeholder Management, Team Leadership, Scrum Master
-
-<span style="color:#2e59d9">Conceptualization Skills:</span> Requirements Gathering, Prototyping, User Experience Design, Adaptable
-
-<span style="color:#2e59d9">Communication:</span> Interpersonal, Cross-Functional Collaboration, Technical Documentation
+- **Development:** React, Angular, Spring Boot, Flask, Node.js, jQuery, Java, Algorithms Design, Complexity Analysis
+- **Cloud and Database Management:** AWS (EC2, S3, RDS, CloudFormation), GCP, Azure, MySQL, NoSQL, Oracle, DB2
+- **Data Science:** Machine & Deep Learning Frameworks (TensorFlow, Keras, PyTorch), Statistical Analysis (scikit-learn, Python, R)
+- **ML and Data Visualization:** Matplotlib, Tableau, Experimental Design and Analysis, Model Deployment and Optimization
+- **Technical Project Management:** Agile Methodologies, SDLC, Stakeholder Management, Team Leadership, Scrum Master
+- **Conceptualization Skills:** Requirements Gathering, Prototyping, User Experience Design, Adaptable
+- **Communication:** Interpersonal, Cross-Functional Collaboration, Technical Documentation
 
 ### 💻 My Best Projects:
 
