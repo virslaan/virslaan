@@ -1,36 +1,31 @@
-##  Vipul H. Harihar GitHub Profile : Glad to see you here :)
+# Hello there, I'm Vipul!
 
+## About Me
+I'm a highly motivated and results-driven software engineer with experience in cloud infrastructure, web development, and data analysis. I recently completed my Masters in Data Science from Columbia University's Fu Foundation School of Engineering and Applied Science. I'm passionate about problem-solving and developing innovative solutions that make an impact.
 
-I am a graduate from <b>Columbia University, New York,</b> in Masters in Data Science at the <b> Fu Foundation School of Engineering and Sciences School.
-I am open to full time job opportunities please reach out to me.
-</b> My concrete fundamental skill involves:
-<li> Problem-solving </li>
-<li> Data Handling, Management and Modeling </li>
-<li> Software engineering </li>
-<li> Application and Web Development </li>
-<li> User Experience and Design Enhancer </li>
-<br>
-<!--Before pursuing my masters in 'Data Science', I worked as an Application Developer at IBM where I handled projects involving 'Data Collection', 'Cleaning', 'Storage', 'Management', 'Analytics', and 'Data Wrangling'. I honed my technical skills in Java, Python, R, SQL, Web Data Analysis, and IBM Cognos Analytics by working on 2 international projects and deploying one software application on Cloud, and devised machine learning models into production on AWS Cloud Platform.
--->
-As a self-motivated, perseverant individual with industrial experience in Data Science and Computer Science, I ll bring a combination of advanced and brilliant skills that would help me perform greatly to achieve my life goals and enable companies and business to make insightful and effective decisions.
+## My Skills
+- Cloud Infrastructure
+- Web Development
+- Data Analysis
+- Java
+- Python
+- Spring Boot
+- Hadoop
+- Big Query
 
+## My Best Projects
+- **GenTrust Wealth Management Investment Platform Cloud Deployment**: In just three weeks, I deployed AWS cloud infrastructure for GenTrust's Investment Platform, boosting scalability and security for 300+ clients.
+- **Tax Loss Harvesting Tool Development**: As a software engineering intern at GenTrust, I spearheaded the development of a Tax Loss Harvesting tool, resulting in improved financial outcomes for 260+ clients through effective design.
+- **Automated Email Report Development**: I developed an automated email report for stakeholders at GenTrust, enhancing efficiency and providing real-time access to investment information.
+- **Secure Passport Application**: As a software engineering intern at NewYork-Presbyterian - Children's Hospital, I created a secure passport application for 55 patients in a research study, utilizing digital encryption to ensure confidentiality.
+- **Pre-Accounting Module Migration to Red Hat Cloud**: As an application developer at IBM, I successfully migrated the pre-accounting module to Red Hat cloud infrastructure, resulting in significant profits within 5 months.
+- **Road Safety Application Development**: As a policy intern at Indian Roads Safety Campaign, Solve Foundation, I developed a road safety application, contributing to the safety of 16,000+ commuters.
+- **Food Delivery App Development**: As a Java Full Stack Developer Intern at IBM, I developed a Spring Boot-based food delivery app for 29 restaurants, addressing the food crisis during the COVID-19 pandemic.
+- **News Website Data Analysis**: As a summer scholar - Big Data Engineer Intern at ONGC, Ministry of Petroleum and Natural Gas, Government of India, I scraped open-source data from 5 news websites using Python's Beautiful Soup packages for keyword filtering to extract insights.
 
-<!--img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1186261/screenshots/3718681/_______.gif" width="200" height="220" /-->
-  
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/vipulhharihar/)
+- Email: vhh2105@columbia.edu
+- YouTube: [My YouTube Channel](https://www.youtube.com/channel/UCYqM-AlwKVrfotOYmoGgdPQ)
 
-- How to reach me: vhh2105@columbia.edu
-- Pronouns: he/him
-- Fun fact: I am a Youtuber as well, I vlog my life !
-##
-<!--
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=virslaan&theme=blue-green)
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=virslaan/Python)
-## 5. Profile Visitor Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=virslaan)
-### Repository Interaction Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/virslaan/Python)
-
--->
+Thanks for checking out my profile! Let's create something awesome together 🚀.
