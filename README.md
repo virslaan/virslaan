@@ -22,6 +22,10 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 - **Food Delivery App Development**: Developed a Spring Boot-based food delivery app for 29 restaurants, addressing the food crisis during the COVID-19 pandemic.
 - **News Website Data Analysis**: Scraped open-source data from 5 news websites using Python's Beautiful Soup packages for keyword filtering to extract insights.
 
+### 📈 Stats:
+
+![Vipul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=virslaan&show_icons=true&theme=dracula&custom_title=Vipul's%20GitHub%20Stats%20(A%2B%2B)&icon_color=2e59d9)
+
 ### 📫 How to Reach Me:
 
 - LinkedIn: [linkedin.com/in/vipulhharihar/](https://www.linkedin.com/in/vipulhharihar/)
