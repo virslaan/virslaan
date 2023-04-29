@@ -6,7 +6,7 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 
 - **Development:** React, Angular, Spring Boot, Flask, Node.js, jQuery, Java, Algorithms Design, Complexity Analysis
 - **Cloud and Database Management:** AWS (EC2, S3, RDS, CloudFormation), GCP, Azure, MySQL, NoSQL, Oracle, DB2
-- **Data Science:** Machine & Deep Learning Frameworks (TensorFlow, Keras, PyTorch), Statistical Analysis (scikit-learn, Python, R)
+- **Data Science:** Machine & Deep Learning Frameworks (TensorFlow, Keras, PyTorch), Analytics (scikit-learn, Python, R)
 - **ML and Data Visualization:** Matplotlib, Tableau, Experimental Design and Analysis, Model Deployment and Optimization
 - **Technical Project Management:** Agile Methodologies, SDLC, Stakeholder Management, Team Leadership, Scrum Master
 - **Conceptualization Skills:** Requirements Gathering, Prototyping, User Experience Design, Adaptable
