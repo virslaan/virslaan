@@ -12,7 +12,7 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 - **Conceptualization Skills:** Requirements Gathering, Prototyping, User Experience Design, Adaptable
 - **Communication:** Interpersonal, Cross-Functional Collaboration, Technical Documentation
 
-![MS Azure Cloud Computing Knowledge](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+
 ![](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
