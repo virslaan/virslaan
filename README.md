@@ -18,6 +18,10 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 ![Badge Description](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/73ac7b07-679c-4c0e-94d9-8b9dc11efe59/Applied_Data_Science_with_Python.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)
+![Badge Description](https://images.credly.com/size/110x110/images/59de400a-fb3a-4cf2-b663-c37e2de002e4/Pred_Analy_Modeler_-_Exporer_2018_-_2020.png)
+![Badge Description](https://images.credly.com/size/110x110/images/3444570f-70f9-4c43-92a6-dcc32994a6a7/BI_Intel_Analy_Mast_Award_Stu_2018.png)
+![Badge Description](https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)
+![Badge Description](https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
 
 
 
