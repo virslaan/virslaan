@@ -21,6 +21,12 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 ![Badge Description](https://images.credly.com/size/110x110/images/59de400a-fb3a-4cf2-b663-c37e2de002e4/Pred_Analy_Modeler_-_Exporer_2018_-_2020.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/3444570f-70f9-4c43-92a6-dcc32994a6a7/BI_Intel_Analy_Mast_Award_Stu_2018.png)
 ![Badge Description](https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)
+[![Badge Description](https://images.credly.com/size/110x110/images/dfd6eb51-4caa-4ffe-b107-85ece064370c/Data_Science_Methodologies.png)](Badge Link URL)
+[![Badge Description](https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/Big_Data_Found_Level_1_-_CC_-_2019.png)](Badge Link URL)
+[![Badge Description](https://images.credly.com/size/110x110/images/34048b18-33e7-4467-9f46-987b5b0f2a82/BI_Intel_Analy_Expl_Award_Stu_2018.png)](Badge Link URL)
+[![Badge Description](https://images.credly.com/size/110x110/images/ed2f41d5-f645-4c11-a492-26c27912e911/Big_Data_Eng_-_Exporer_2018_-_2020.png)](Badge Link URL)
+[![Badge Description](https://images.credly.com/size/110x110/images/087eaefb-61a2-426b-ae74-74efca195667/Data_Visualization_Using_Python.png)](Badge Link URL)
+[![Badge Description](https://images.credly.com/size/110x110/images/b4e6cd62-b23f-4166-88a4-37f7f636efc4/Big_Data_Found_Level_2_-_CC_v2.png)](Badge Link URL)
 
 
 
