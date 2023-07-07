@@ -32,7 +32,7 @@ I'm Vipul, a highly motivated and results-driven software engineer with a passio
 
 ### 💻 My Best Projects:
 
-- **GenTrust Wealth Management Investment Platform Cloud Deployment**: Deployed AWS cloud infrastructure for GenTrust's Investment Platform in 3 weeks, boosting scalability and security for 300+ clients.
+- **GenTrust Wealth Management Investment Platform Cloud Deployment**: Deployed AWS cloud infrastructure for GenTrust's Investment Platform in 3 months, boosting scalability and security for 300+ clients.
 - **Tax Loss Harvesting Tool Development**: Spearheaded the development of a Tax Loss Harvesting tool, resulting in improved financial outcomes for 260+ clients through effective design.
 - **Automated Email Report Development**: Developed an automated email report for stakeholders, enhancing efficiency and providing real-time access to investment information.
 - **Secure Passport Application**: Created a secure passport application for 55 patients in a research study, utilizing digital encryption to ensure confidentiality.
