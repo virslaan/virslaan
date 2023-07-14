@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile! 👋 
 
-GitHub Account Grade: <97>%
+##### GitHub Account Grade: A+++
 
 I'm Vipul, a highly motivated and results-driven software engineer with a passion for problem-solving and developing innovative solutions that make a real impact. With experience in cloud infrastructure, web development, and data analysis, I'm always up for a challenge and love to learn and grow in my field.
 
